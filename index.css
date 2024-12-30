@@ -1,0 +1,9 @@
+    /* Highlighting headings */
+    h1, h2, h3, h4, h5, h6 {
+      background-color: #f0f8ff; /* Light blue background */
+      color: #333; /* Dark text color for readability */
+      padding: 10px; /* Adds space around the text */
+      border-left: 5px solid #007BFF; /* Adds a colored border on the left */
+      margin-bottom: 10px; /* Adds space below each heading */
+      border-radius: 5px; /* Rounds the edges of the background */
+    }
